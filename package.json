@@ -1,0 +1,30 @@
+{
+  "name": "clara",
+  "version": "1.0.0",
+  "description": "Bot for publish to insta.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaiStudio/Clara.git"
+  },
+  "keywords": [
+    "Tai",
+    "Studio",
+    "tai-studio",
+    "bot",
+    "instagram",
+    "youtube"
+  ],
+  "author": "Tai Studio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TaiStudio/Clara/issues"
+  },
+  "homepage": "https://github.com/TaiStudio/Clara#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
